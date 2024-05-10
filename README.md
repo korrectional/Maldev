@@ -1,21 +1,12 @@
-# ReverseShellcode
-A basic reverse TCP shellcode program
+# Malware Development
+
+I created this repo to document my journey in learning how to create malware (also my pc has been in some troube lately so its good to have an internet backup)
 
 
+# Shellcode Injection
+*bindTCP*
 
-
-
-# How to use
-Well you will have to generate your own shellcode cause this one will connect to my machine.
-
-
-
-
-
-# *TODO:*
--*static analisys protection*
--*sandbox protection*
-
+*reverse TCP*
 
 
 
