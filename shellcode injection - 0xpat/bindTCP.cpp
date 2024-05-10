@@ -1,6 +1,17 @@
 
 #include <Windows.h>
 
+
+
+/*
+
+This program has less debugging stuff, but it (soon) contains tricks to bypass various security systems.
+
+*/
+
+
+
+
 void main()
 {
 	const char shellcode[] = "(yer shellcode here)";
